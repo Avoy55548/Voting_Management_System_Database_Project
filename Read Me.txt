@@ -1,0 +1,4 @@
+1.This code is about Voting Management System using ORACLE 10G and a diplaying it in GUI.
+2.Please Set your display scaling to 100%.
+
+
