@@ -1,4 +1,9 @@
 1.This code is about Voting Management System using ORACLE 10G and a diplaying it in GUI.
 2.Please Set your display scaling to 100%.
+3. command for the terminal:
+javac -cp "path of ojbdc 11";. MainPage.java && java -cp "path of ojbdc 11";. MainPage
+
+Example:  
+E:\Voting_Management_System>javac -cp E:\Voting_Management_System\ojdbc11.jar;. MainPage.java && java -cp E:\Voting_Management_System\ojdbc11.jar;. MainPage
 
 
